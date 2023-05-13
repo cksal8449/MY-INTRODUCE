@@ -3,28 +3,26 @@ body{
 }
 
 .all{
-margin: 50 auto;
-text-align: center;
+    width: 800px;
+    margin: 0 auto;
 }
 
 .hello{
-    font-family: 'Pretendard-Thin';
     color: #ffffff;
-    text-align:center;
     font-size: 65px;
-    font-weight: bold;
     margin: 0 auto;
     margin-top: 250px;
-}
+    }
 
-.Let{font: size 45px;
-    padding: 0px;
-    
+
+
+
+.Let{
+    /* padding: 0px; */
     color: rgb(146, 208, 80);
-    text-align: center;
+    /* text-align: center; */
     font-weight:bold;
     font-size: 65px;
-    font-weight: bold;
     margin: 0 auto;
 }
 
@@ -32,11 +30,12 @@ text-align: center;
     font-family:'Times New Roman', Times, serif;
     background-color: rgb(255, 217, 102);
     color: rgb(237, 125, 49);
+    text-align: center;
     border-radius: 20px;
     padding: 20px;
     text-decoration: none;
     font-size: 30px;
-    width: 700px;
+    width: 750px;
     margin:0 auto;
     margin-top: 25px;
 
