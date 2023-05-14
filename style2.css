@@ -1,0 +1,89 @@
+
+
+
+.box1{
+    
+    background-color: rgb(38, 97, 150);
+    width: 200%;
+    height: 130px;
+    position: fixed;
+   
+}
+
+.main{
+    color: rgb(255, 192, 0);
+    font-size: 40pt;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.box2{
+    /* background-color: #7092BE; */
+    color: #fff;
+    text-align:center;
+
+}
+
+.img1{
+    margin: 0 auto;
+}
+
+.name{
+font-size: 70pt;
+text-align: center;
+}
+
+.name2{
+font-size: 35pt;
+color: rgb(38, 97, 150);
+text-align:center;
+padding-top: 400px;
+}
+
+.box3{
+    color: #fff;
+    text-align:center;
+}
+
+.하트{
+font-size: 90pt;
+}
+.FAVORITE{
+    font-size: 90px;
+    padding-top: 100px;
+}
+
+ul{
+    margin: 0 auto; width: 30%;
+    font-size: 90px;
+color:orangered;
+
+}
+
+ul li{
+    margin: 50px 0;
+    padding-top: 50px;
+}
+
+.FAVORITE-LIST{
+padding-top: 50pt;
+margin: 0 auto;
+}
+
+.img2{
+    margin: 0 auto;
+}
+
+.mbti1{
+    font-size: 70pt;
+    color: #fff;
+    text-align:center;
+
+}
+
+.mbti2{
+    font-size: 40pt;
+    color: #14b346;
+    text-align:center;
+padding-top: 400px;
+}
