@@ -1,13 +1,14 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 
 .box1{
     
     background-color: rgb(38, 97, 150);
-    width: 200%;
+    width: 1900px;
     height: 130px;
     position: fixed;
    
@@ -15,8 +16,8 @@
 
 .main{
     color: rgb(255, 192, 0);
-    font-size: 40pt;
-    margin-top: 25px;
+    font-size: 40px;
+    margin-top: 35px;
     margin-left: 25px;
 }
 
@@ -24,7 +25,6 @@
     /* background-color: #7092BE; */
     color: #fff;
     text-align:center;
-
 }
 
 .img1{
@@ -51,6 +51,7 @@ padding-top: 400px;
 .하트{
 font-size: 90pt;
 }
+
 .FAVORITE{
     font-size: 90px;
     padding-top: 100px;
